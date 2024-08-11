@@ -26,7 +26,7 @@
 ## 🌐 Socials 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-mokka-63744b2a5/)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?logo=Portfolio&logoColor=white)](https://alokrai0607.github.io/)&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alokrai57720689)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/NKYonline1?t=lZ2w070eTd6dhiZZSah_sA&s=09)&nbsp;
 
 <br>
 
