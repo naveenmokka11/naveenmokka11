@@ -11,7 +11,7 @@
 <br>
 💬 Ask me about HTML5 , CSS3 , JavaScript ,Java(Core + Advance), SpringBoot ,MySQL,PgSQL & ChatGPT.
 <br>
-👨‍💻 All my projects are available in the [repository section](https://github.com/alokrai0607?tab=repositories).
+👨‍💻 All my projects are available in the [repository section](https://github.com/naveenmokka11?tab=repositories).
 <br>
 👨🏻‍🎓 Have a look at my [Portfolio](https://alokrai0607.github.io/).
 <br>
@@ -24,7 +24,7 @@
 
 
 ## 🌐 Socials 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-rai-004b35142)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-mokka-63744b2a5/)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?logo=Portfolio&logoColor=white)](https://alokrai0607.github.io/)&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alokrai57720689)&nbsp;
 
