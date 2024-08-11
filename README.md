@@ -17,7 +17,7 @@
 <br>
 🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1Qdwd40KmkByDwamw2tOvhtXyXZC9T2hE/view?usp=sharing).
 <br>
-🤝 I’m also reachable at saelalok001@gmail.com
+🤝 I’m also reachable at naveenmokka2000@gmail.com
 
 
 <br>
